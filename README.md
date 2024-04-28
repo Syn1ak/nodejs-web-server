@@ -1,4 +1,4 @@
-# "Node.js - Building a Web Server"
+# Node.js - Building a Web Server
 
 **Description:**
 
