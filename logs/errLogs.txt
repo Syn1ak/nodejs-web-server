@@ -1,1 +1,2 @@
 20240429	11:33:11	23919a13-db54-4fc2-99b0-0a845f0dfe57	Error: Not allowed by CORS
+20240504	23:28:28	10c3415e-0940-42b0-9960-7992c95564a5	TypeError: res.join is not a function
