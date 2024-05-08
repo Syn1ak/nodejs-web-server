@@ -170,3 +170,5 @@
 20240506	13:51:43	fadb6780-9387-446f-975c-f180dfbd676b	POST	undefined	/auth
 20240506	13:51:52	2791e154-ffce-47bf-a658-32c438c96f99	GET	undefined	/employees/
 20240506	13:52:14	9013a01d-2740-4e3e-872d-d797dc0b0bcb	GET	undefined	/refresh
+20240508	09:24:09	54ca5ae1-cadb-4696-bbf7-5814ebe2b599	POST	undefined	/register
+20240508	09:24:52	e3d3e0db-e031-4f0c-a495-f76f993254d4	POST	undefined	/register
